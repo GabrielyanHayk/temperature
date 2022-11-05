@@ -1,0 +1,9 @@
+.temperatureControlContainer 
+{
+   width: 350px;
+   height: 450px;
+   border: 5px solid #a2b8b1; 
+   background-color: aquamarine;
+   margin: 50px auto;
+   border-radius: 30px;
+}

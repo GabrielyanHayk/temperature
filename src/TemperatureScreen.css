@@ -1,0 +1,27 @@
+.temperatureScreen {
+    width: 200px;
+    height: 200px;
+    border: 5px solid #13d291;
+    border-radius: 50%;
+    margin: 60px auto;
+    /* font-size: 70px; */
+    transition: background 2.5s;
+}
+
+.temperatureScreen > div {
+    font-size: 70px;
+    margin-top:45px;
+    color: #096a49;
+}
+
+.cold {
+    background-color: #6dea53;
+}
+
+.normal {
+    background-color: #5bb999;
+}
+
+.hot {
+    background-color: #de5959;
+}
