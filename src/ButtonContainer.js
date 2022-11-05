@@ -4,9 +4,6 @@ function ButtonContainer (props) {
     const buttonContainer = props.className;
     const temperatureValue = props.temperatureValue;
     const setTemperatureValue = props.setTemperatureValue;
-   // const temperatureColor = props.temperatureColor;
-   // const setTemperatureColor =  props.setTemperatureColor;
-    // console.log(setTemperatureColor);
 
 
     const addTemperature = ()=> {
